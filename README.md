@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Auro 👋
 
 
 - 🔭 I’m currently working as P.O and backend dev
